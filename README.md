@@ -12,3 +12,4 @@ Follow these:<br>
 1. Build project to local server `npm run build`<br>
 2. Install static server `npm install -g serve`<br>
 3. Serve `serve -s build`<br>
+4. Open `localhost:port`
